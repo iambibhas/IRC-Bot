@@ -66,8 +66,8 @@ return $salida;
 
 }
 
-$user = "bivunlim";
-$pass = "priyamany351";
+$user = "";
+$pass = "";
 
 $datos = "UserName=".$user."&PassWord=".$pass."&x=23&y=17";
 
